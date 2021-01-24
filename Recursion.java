@@ -1,6 +1,4 @@
 /*
-* Copyright (c) 2021
-*
 * The Recursion file reverses a word and prints it
 * out to the user.
 * 
